@@ -1,6 +1,6 @@
 # Facebook Business SDK Codegen
 
-## Introduction
+## Introduction.
 
 This project contains all the code to auto generate Facebook Business SDKs
 ([php](https://github.com/facebook/facebook-php-business-sdk),
